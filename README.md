@@ -1,4 +1,4 @@
-# digital Hospital Management System (dHMS)
+# Digital Hospital Management System (dHMS)
 
 A web-based, client-server digital health record system designed to transition medical facility workflows from manual, paper-based processes into a secure, centralized digital architecture. This system optimizes patient data entry, scheduling, and administrative reporting for improved healthcare delivery.
 
